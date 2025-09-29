@@ -1,0 +1,1 @@
+export { PopularityStars } from './PopularityStars';
