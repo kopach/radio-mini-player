@@ -1,4 +1,4 @@
-# 🎧 TuneIn Mini Player
+# 🎧 Radio Mini Player
 
 A single-page application (SPA) for browsing and playing radio stations, built with a focus on a clean, scalable, and maintainable architecture.
 
