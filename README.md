@@ -9,7 +9,7 @@ This project uses React, TypeScript, and Tailwind CSS. The core business logic i
 - **Universal Search**: Instantly filter stations by any field, including name, description, or tags.
 - **Custom Audio Player**: Click any station to play its stream, with simple Play/Pause controls.
 - **Responsive Design**: A fully responsive layout for a seamless experience on desktop, tablet, and mobile.
-- **Skeleton Loading**: Skeleton screens provide immediate feedback while the station list is loading.
+- **Skeleton Loading**: Skeleton screens provide immediate feedback while the station list is loading (use tool like [Requestly](https://chromewebstore.google.com/detail/requestly-supercharge-you/mdnleldcmiljblolnjhpnblkcekpdkpa) to simulate delay).
 - **Dynamic Tag Display**: Cleanly handles numerous tags by showing the most relevant ones and a "+X more" indicator.
 - **Robust Error Handling**: Features a top-level error boundary to prevent application crashes and handles stream loading errors gracefully.
 
